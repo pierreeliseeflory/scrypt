@@ -1,5 +1,5 @@
-#ifndef __SCRYPT_TEST_H__
-#define __SCRYPT_TEST_H__
+#ifndef __TEST_H__
+#define __TEST_H__
 
 bool TestSalsa20_8 ();
 
@@ -9,4 +9,4 @@ bool TestScryptROMix ();
 
 bool RunTests();
 
-#endif // __SCRYPT_TEST_H__
+#endif // __TEST_H__
